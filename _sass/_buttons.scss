@@ -34,6 +34,43 @@
     margin-left: -0.5em; /* override for hidden text*/
   }
 
+  /* primiary like */
+  &--primary {
+    font-size: $type-size-6;
+    padding: 0.1em 0.2em;
+  }
+
+  /* pdf*/
+  &--pdf {
+    font-size: $type-size-6;
+    padding: 0.1em 1em;
+    background-color: LightSkyBlue;
+  }
+
+  &--ieee {
+    font-size: $type-size-6;
+    padding: 0.1em 1em;
+    background-color: #00629b;
+  }
+   
+  &--arxiv {
+    font-size: $type-size-6;
+    padding: 0.1em 1em;
+    background-color: #b31b1b;
+  }
+
+  &--acm {
+    font-size: $type-size-6;
+    padding: 0.1em 1em;
+    background-color: #000000;
+  }
+
+  &--news {
+    font-size: $type-size-6;
+    padding: 0.1em 1em;
+    background-color: mix(#000, $info-color, 20%);
+  }
+
   /* fills width of parent container */
 
   &--block {
