@@ -14,7 +14,7 @@ redirect_from:
 			<!-- <div class="contentarea" style="margin-left:55px; margin-right:125px;"> -->
       <div class="contentarea" style="margin-left:5px; margin-right:5px;">
 			<!-- <img  style="float: right;" src="images/Utah_State_University_seal.svg.png" class="right" alt="Tian Xie's Profile Picture" width="190" height="190" /> -->
-			<img  style="float: right;" src="images/Tian.jpeg" class="right" alt="Tian Xie's Profile Picture" width="190" height="190" />
+			<img  style="float: right;" src="images/Tian.jpg" class="right" alt="Tian Xie's Profile Picture" width="190" height="190" />
 			<!-- <img  style="float: right;" src="wordcloud-wifi.png" class="right" alt="Tian Xie's Profile Picture2" width="190" height="190" /> -->
 
 			
