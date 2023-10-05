@@ -13,7 +13,14 @@ TPC:
 
 Journal Reviewer:
 ========
-IEEE Transactions on Information Forensics & Security (TIFS), IEEE Transactions on Mobile Computing (TMC), IEEE/ACM Transactions on Networking (ToN), Computer Networks, Computer & Security, ACM Transactions on Privacy and Security (TOPS/TISSEC), IEEE Transactions on Reliability
+- IEEE Transactions on Information Forensics & Security (TIFS)
+- IEEE Transactions on Mobile Computing (TMC)
+- IEEE/ACM Transactions on Networking (ToN)
+- Computer Networks
+- Computer & Security
+- ACM Transactions on Privacy and Security (TOPS/TISSEC)
+- IEEE Transactions on Reliability
+- The Journal of Supercomputing
 
 
 Conference Reviewer:
