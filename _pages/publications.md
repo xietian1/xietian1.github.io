@@ -8,7 +8,7 @@ author_profile: false
 **2024**
 
 <i><span class="btn btn--primary">ToN'24</span> <b>Taming the Insecurity of Cellular Emergency Services (9-1-1): From Vulnerabilities to Secure Designs</b></i><br>
-in-Yue Chen, Yiwen Hu, Guan-Hua Tu, Chi-Yu Li, Sihan Wang, Jingwen Shi, <U>Tian Xie</U>, Li Xiao, Chunyi Peng, Zhaowei Tan, and Songwu Lu<br>
+Min-Yue Chen, Yiwen Hu, Guan-Hua Tu, Chi-Yu Li, Sihan Wang, Jingwen Shi, <U>Tian Xie</U>, Li Xiao, Chunyi Peng, Zhaowei Tan, and Songwu Lu<br>
 Accepted to IEEE/ACM Transactions on Networking (Impact Factor: 3.7).
 
 

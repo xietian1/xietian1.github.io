@@ -61,7 +61,7 @@ I am an assistant professor in the Department of Computer Science at Utah State 
 
 ## Recent News
 
-
+- March 2024, our 911 security paper is accepted by IEEE/ACM Transactions on Networking.
 - Our 911 security paper received AT&T Security Award.
 - Our 911 security paper received the [Best Community Paper Award Runner-Up at ACM MobiCom'22](paper\911-award.png).
 - Tian received 2022 Dissertation Completion Fellowship.
