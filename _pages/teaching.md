@@ -11,6 +11,7 @@ author_profile: false
   {% include archive-single.html %}
 {% endfor %} -->
 @ USU
+- Instructor: CS 4460 Introduction to Cybersecurity, Spring 2024
 - Instructor: CS 5890/CS 6890 Computer Network and Security, Fall 2023
 
 @ MSU
