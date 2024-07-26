@@ -29,7 +29,7 @@ redirect_from:
 					Utah State University
 					<br>
 					<br>
-					<a href="https://scholar.google.com/citations?user=EjC2EkgAAAAJ&hl=zh-CN&oi=ao">[Google Scholar]</a> 
+					<a href="https://scholar.google.com/citations?user=EjC2EkgAAAAJ&hl=en">[Google Scholar]</a> 
 					<br>
 					<a href="https://www.linkedin.com/in/tian-xie-0bba63127/">[Linkedin]</a> 
 					<br>
