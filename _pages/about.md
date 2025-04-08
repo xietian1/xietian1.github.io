@@ -52,7 +52,7 @@ redirect_from:
 
 ## Biography
 
-I am an assistant professor in the Department of Computer Science at Utah State University. I received a Ph.D. degree in Computer Science from Michigan State University, where I was a member of SNMS laboratory led by Professor [Guan-Hua Tu](https://www.cse.msu.edu/~ghtu/), in 2023. Prior that, I received the B.S. degree in Electrical and Computer Engineering With Honor from Michigan State University in 2016 Fall. My research interests are in the broad areas of **security**, **IoT**, **mobile computing**, **mobile networks and systems**, **secure cloud computing/services**, **blockchain technologies**, and **data analysis**. 
+I am an assistant professor in the Department of Computer Science at Utah State University. I received a Ph.D. degree in Computer Science from Michigan State University, where I was a member of SNMS laboratory led by Professor [Guan-Hua Tu](https://www.cse.msu.edu/~ghtu/), in 2023. Prior that, I received the B.S. degree in Electrical and Computer Engineering With Honor from Michigan State University in 2016 Fall. My research interests are in the broad areas of **security**, **IoT**, **mobile computing**, **mobile networks and systems**, **secure cloud computing/services**, **blockchain technologies**, and **LLM**. 
 
 </section>
 
@@ -60,8 +60,11 @@ I am an assistant professor in the Department of Computer Science at Utah State 
 <section id="news" markdown="1">
 
 ## Recent News
-
+- April 2025, we receive a **<font color="darkred">NAIRR Pilot award</font>** to support our [5G/4G cellular network security project](https://nairrpilot.org/projects/awarded?_requestNumber=NAIRR240456).
+- Aug. 2024, our emergency service (9-1-1) paper is accepted by ACM MobiCom'24.
+- July 2024, our MobiCom'22 paper, 'Uncovering Insecure Designs of Cellular Emergency Services (911),' was selected for the [SIGMOBILE Research Highlights](https://www.sigmobile.org/grav/publications/research-highlights).
 - March 2024, our 911 security paper is accepted by IEEE/ACM Transactions on Networking.
+- Dec. 2023, our 5G/4G IMS security paper is accepted by ACM MobiCom'24.
 - Our 911 security paper received AT&T Security Award.
 - Our 911 security paper received the [Best Community Paper Award Runner-Up at ACM MobiCom'22](paper\911-award.png).
 - Tian received 2022 Dissertation Completion Fellowship.
