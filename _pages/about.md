@@ -41,7 +41,7 @@ redirect_from:
 				    <img src="images/logo-telephone.png" style="border-style: none; border-width: 0px; width: 3%; height: 1%;">
                                         <br>
 					-->
-					<b>Office</b>: 402B Old Main (<a href="https://www.usu.edu/map/index.cfm?id=1">Map</a>) <br>
+					<b>Office</b>: SER 328 <br>
 					<!-- </div> -->
 				</p>
 			</div>
