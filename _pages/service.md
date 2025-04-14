@@ -8,7 +8,7 @@ author_profile: false
 
 TPC:
 ========
-[ACM Mobicom S3 2019](https://s32019.blogs.rice.edu/)
+Program Chair@IEEE DSC'25, [ACM Mobicom S3'19](https://s32019.blogs.rice.edu/)
 
 
 Journal Reviewer:
