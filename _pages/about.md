@@ -33,7 +33,7 @@ redirect_from:
 					<br>
 					<a href="https://www.linkedin.com/in/tian-xie-0bba63127/">[Linkedin]</a> 
 					<br>
-					<a href="paper\Tian-Xie-2024-Oct.pdf">[CV]</a> 
+					<a href="paper\Tian-Xie-May-2025.pdf">[CV]</a> 
 					<br>
 				    Email: tian [dot] xie [at] usu [dot] edu 
                     <br>
