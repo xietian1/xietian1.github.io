@@ -60,7 +60,8 @@ I am an assistant professor in the Department of Computer Science at Utah State 
 <section id="news" markdown="1">
 
 ## Recent News
-- April 2025, I'm invited to serve on IEEE DSC'25 Program Chair (Experience and Practice Track). Please consider submitting.
+- July 2025, I'm invited to serve as TPC on the 1st free5GC World Forum in conjunction with ACM CCS 2025. 
+- April 2025, I'm invited to serve as the Program Chair for Experience and Practice Track on IEEE DSC'25. 
 - April 2025, we receive a **<font color="darkred">NAIRR Pilot award</font> ([NAIRR240456](https://nairrpilot.org/projects/awarded?_requestNumber=NAIRR240456), PI)**  to support our 5G/4G cellular network security project.
 - Aug. 2024, our emergency service (9-1-1) paper is accepted by ACM MobiCom'24.
 - July 2024, our MobiCom'22 paper, 'Uncovering Insecure Designs of Cellular Emergency Services (911),' was selected for the [SIGMOBILE Research Highlights](https://www.sigmobile.org/grav/publications/research-highlights).
