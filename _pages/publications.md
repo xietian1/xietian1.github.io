@@ -3,7 +3,27 @@ layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: false
+tdsc: 7.5
+ton: 7.1
+tmc: 9.2
 ---
+
+**2025**
+
+<i><span class="btn btn--primary">DSC'25</span> <b>Dissecting Privacy-Exposing Identifiers in 5G/4G Networks</b></i><br>
+Munshi Saifuzzaman, Ke Xie, <U>Tian Xie</U>, Xiao Zhang, Xinyu Lei<br>
+Accepted to 2025 IEEE Conference on Dependable and Secure Computing (DSC) (Acceptance rate: 40.90%).
+
+<i><span class="btn btn--primary">MASS'25</span> <b>ViKey: Secure Door Access Control Using Passive Visible Light Tags</b></i><br>
+Jaskirat Sudan, Fatima Qasem, Hasky E Fynn, Fatima Mohammed, Ashwin Sarvadey, <U>Tian Xie</U>, Ang Li, Xiao Zhang<br>
+Accepted to 2025 IEEE 22nd International Conference on Mobile Ad Hoc and Smart Systems (MASS) (Acceptance rate: 29.6%).
+
+
+<i><span class="btn btn--primary">TDSC'25</span> <b>Uncovering Risks of Data-Free Feature Vector Inversion Attacks Against Vector Databases</b></i><br>
+Shengyang Qin, Xinyu Lei, Nankun Mu, Hongyu Huang, <U>Tian Xie</U>, Xiao Zhang<br>
+Accepted to IEEE Transactions on Dependable and Secure Computing (Impact Factor: {{ tdsc }}).
+
+
 
 **2024**
 
@@ -18,7 +38,7 @@ Proceedings of ACM the 30th Annual International Conference On Mobile Computing 
 
 <i><span class="btn btn--primary">ToN'24</span> <b>Taming the Insecurity of Cellular Emergency Services (9-1-1): From Vulnerabilities to Secure Designs</b></i><br>
 Min-Yue Chen, Yiwen Hu, Guan-Hua Tu, Chi-Yu Li, Sihan Wang, Jingwen Shi, <U>Tian Xie</U>, Li Xiao, Chunyi Peng, Zhaowei Tan, and Songwu Lu<br>
-Accepted to IEEE/ACM Transactions on Networking (Impact Factor: 3.7).
+Accepted to IEEE/ACM Transactions on Networking (Impact Factor: {{ ton }}).
 
 ---
 
@@ -26,7 +46,7 @@ Accepted to IEEE/ACM Transactions on Networking (Impact Factor: 3.7).
 
 <i><span class="btn btn--primary">ToN’23</span> <b>Dissecting Operational Cellular IoT Service Security: Attacks and Defenses</b></i><br>
 Sihan Wang, <U>Tian Xie</U>, Min-Yue Chen, Guan-Hua Tu, Chi-Yu Li, Xinyu Lei, Po-Yi Chou, Fucheng Hsieh, Yiwen Hu, Li Xiao, and Chunyi Peng<br>
-Accepted to IEEE/ACM Transactions on Networking (Impact Factor: 3.7).
+Accepted to IEEE/ACM Transactions on Networking (Impact Factor: {{ ton }}).
 
 
 <i><span class="btn btn--primary">CNS’23</span> <b>When Good Turns Evil: Encrypted 5G/4G Voice Calls Can Leak Your Identities</b></i><br>
@@ -50,7 +70,7 @@ IEEE Transactions on Mobile Computing, Volume: 22, Issue: 6, pp. 3489 - 3507, Ju
 <i><span class="btn btn--primary">ToN'23</span> <b>Insecurity of Operational IMS Call Systems: Vulnerabilities, Attacks, and Countermeasures</b></i>
 <br>
 Yu-Han Lu, Sandy Hsin-Yu Hsiao, Chi-Yu Li, Yi-Chen Hsieh, Po-Yi Chou, Yao-Yu Li, <U>Tian Xie</U>, Guan-Hua Tu<br>
-IEEE/ACM Transactions on Networking, Volume: 31, Issue: 2, pp. 800-815, April, 2023 (Impact Factor: 3.7).<br>
+IEEE/ACM Transactions on Networking, Volume: 31, Issue: 2, pp. 800-815, April, 2023 (Impact Factor: {{ ton }}).<br>
 
 
 ---
@@ -69,7 +89,7 @@ Proceedings of ACM the 28th Annual International Conference On Mobile Computing 
 
 <i><span class="btn btn--primary">TMC'21</span> <b>The Untold Secrets of WiFi-Calling Services: Vulnerabilities, Attacks, and Countermeasures</b></i><br>
 <U>Tian Xie</U>, Guan-Hua Tu, Bangjie Yin, Chi-Yu Li, Chunyi Peng, Mi Zhang, Hui Liu, Xiaoming Liu<br>
-IEEE Transactions on Mobile Computing, Volume: 20, Issue: 11, pp. 3131-3147, Nov. 1 2021 (Impact Factor: 7.9).<br>
+IEEE Transactions on Mobile Computing, Volume: 20, Issue: 11, pp. 3131-3147, Nov. 1 2021 (Impact Factor: {{ tmc }}).<br>
 <a href="{{ base_path }}/paper/The Untold Secrets of WiFi-Calling Services.pdf"><button class="btn btn--pdf">PDF</button></a>
 <a href="https://ieeexplore.ieee.org/document/9095374"><button class="btn btn--ieee">IEEE</button></a>
 <a href="https://arxiv.org/abs/1811.11274"><button class="btn btn--arxiv">arXiv</button></a>
