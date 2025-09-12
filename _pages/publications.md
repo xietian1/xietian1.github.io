@@ -21,7 +21,7 @@ Accepted to 2025 IEEE 22nd International Conference on Mobile Ad Hoc and Smart S
 
 <i><span class="btn btn--primary">TDSC'25</span> <b>Uncovering Risks of Data-Free Feature Vector Inversion Attacks Against Vector Databases</b></i><br>
 Shengyang Qin, Xinyu Lei, Nankun Mu, Hongyu Huang, <U>Tian Xie</U>, Xiao Zhang<br>
-Accepted to IEEE Transactions on Dependable and Secure Computing (Impact Factor: {{ tdsc }}).
+Accepted to IEEE Transactions on Dependable and Secure Computing (Impact Factor: {{ page.tdsc }}).
 
 
 
@@ -38,7 +38,7 @@ Proceedings of ACM the 30th Annual International Conference On Mobile Computing 
 
 <i><span class="btn btn--primary">ToN'24</span> <b>Taming the Insecurity of Cellular Emergency Services (9-1-1): From Vulnerabilities to Secure Designs</b></i><br>
 Min-Yue Chen, Yiwen Hu, Guan-Hua Tu, Chi-Yu Li, Sihan Wang, Jingwen Shi, <U>Tian Xie</U>, Li Xiao, Chunyi Peng, Zhaowei Tan, and Songwu Lu<br>
-Accepted to IEEE/ACM Transactions on Networking (Impact Factor: {{ ton }}).
+Accepted to IEEE/ACM Transactions on Networking (Impact Factor: {{ page.ton }}).
 
 ---
 
@@ -46,7 +46,7 @@ Accepted to IEEE/ACM Transactions on Networking (Impact Factor: {{ ton }}).
 
 <i><span class="btn btn--primary">ToN’23</span> <b>Dissecting Operational Cellular IoT Service Security: Attacks and Defenses</b></i><br>
 Sihan Wang, <U>Tian Xie</U>, Min-Yue Chen, Guan-Hua Tu, Chi-Yu Li, Xinyu Lei, Po-Yi Chou, Fucheng Hsieh, Yiwen Hu, Li Xiao, and Chunyi Peng<br>
-Accepted to IEEE/ACM Transactions on Networking (Impact Factor: {{ ton }}).
+Accepted to IEEE/ACM Transactions on Networking (Impact Factor: {{ page.ton }}).
 
 
 <i><span class="btn btn--primary">CNS’23</span> <b>When Good Turns Evil: Encrypted 5G/4G Voice Calls Can Leak Your Identities</b></i><br>
