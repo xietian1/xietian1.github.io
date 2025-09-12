@@ -23,7 +23,7 @@ Accepted to 2025 IEEE 22nd International Conference on Mobile Ad Hoc and Smart S
 Shengyang Qin, Xinyu Lei, Nankun Mu, Hongyu Huang, <U>Tian Xie</U>, Xiao Zhang<br>
 Accepted to IEEE Transactions on Dependable and Secure Computing (Impact Factor: {{ page.tdsc }}).
 
-
+---
 
 **2024**
 
@@ -70,7 +70,7 @@ IEEE Transactions on Mobile Computing, Volume: 22, Issue: 6, pp. 3489 - 3507, Ju
 <i><span class="btn btn--primary">ToN'23</span> <b>Insecurity of Operational IMS Call Systems: Vulnerabilities, Attacks, and Countermeasures</b></i>
 <br>
 Yu-Han Lu, Sandy Hsin-Yu Hsiao, Chi-Yu Li, Yi-Chen Hsieh, Po-Yi Chou, Yao-Yu Li, <U>Tian Xie</U>, Guan-Hua Tu<br>
-IEEE/ACM Transactions on Networking, Volume: 31, Issue: 2, pp. 800-815, April, 2023 (Impact Factor: {{ ton }}).<br>
+IEEE/ACM Transactions on Networking, Volume: 31, Issue: 2, pp. 800-815, April, 2023 (Impact Factor: {{ page.ton }}).<br>
 
 
 ---
@@ -89,7 +89,7 @@ Proceedings of ACM the 28th Annual International Conference On Mobile Computing 
 
 <i><span class="btn btn--primary">TMC'21</span> <b>The Untold Secrets of WiFi-Calling Services: Vulnerabilities, Attacks, and Countermeasures</b></i><br>
 <U>Tian Xie</U>, Guan-Hua Tu, Bangjie Yin, Chi-Yu Li, Chunyi Peng, Mi Zhang, Hui Liu, Xiaoming Liu<br>
-IEEE Transactions on Mobile Computing, Volume: 20, Issue: 11, pp. 3131-3147, Nov. 1 2021 (Impact Factor: {{ tmc }}).<br>
+IEEE Transactions on Mobile Computing, Volume: 20, Issue: 11, pp. 3131-3147, Nov. 1 2021 (Impact Factor: {{ page.tmc }}).<br>
 <a href="{{ base_path }}/paper/The Untold Secrets of WiFi-Calling Services.pdf"><button class="btn btn--pdf">PDF</button></a>
 <a href="https://ieeexplore.ieee.org/document/9095374"><button class="btn btn--ieee">IEEE</button></a>
 <a href="https://arxiv.org/abs/1811.11274"><button class="btn btn--arxiv">arXiv</button></a>
@@ -97,7 +97,7 @@ IEEE Transactions on Mobile Computing, Volume: 20, Issue: 11, pp. 3131-3147, Nov
 
 <i><span class="btn btn--primary">TMC'21</span> <b>How Can IoT Services Pose New Security Threats In Operational Cellular Networks?</b></i><br>
 <U>Tian Xie</U>, Guan-Hua Tu, Chi-Yu Li, Chunyi Peng<br>
-IEEE Transactions on Mobile Computing, vol. 20, no. 8, pp. 2592-2606, 1 Aug. 2021 (Impact Factor: 7.9).<br>
+IEEE Transactions on Mobile Computing, vol. 20, no. 8, pp. 2592-2606, 1 Aug. 2021 (Impact Factor: page.tmc).<br>
 <a href="{{ base_path }}/paper/How Can IoT Services Pose New Security Threats In Operational Cellular Networks.pdf"><button class="btn btn--pdf">PDF</button></a>
 <a href="https://ieeexplore.ieee.org/document/9055084"><button class="btn btn--ieee">IEEE</button></a>
 
