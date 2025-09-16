@@ -16,12 +16,14 @@ Accepted to 2025 IEEE Conference on Dependable and Secure Computing (DSC) (Accep
 
 <i><span class="btn btn--primary">MASS'25</span> <b>ViKey: Secure Door Access Control Using Passive Visible Light Tags</b></i><br>
 Jaskirat Sudan, Fatima Qasem, Hasky E Fynn, Fatima Mohammed, Ashwin Sarvadey, <U>Tian Xie</U>, Ang Li, Xiao Zhang<br>
-Accepted to 2025 IEEE 22nd International Conference on Mobile Ad Hoc and Smart Systems (MASS) (Acceptance rate: 29.6%).
-
+Accepted to 2025 IEEE 22nd International Conference on Mobile Ad Hoc and Smart Systems (MASS) (Acceptance rate: 29.6%).<br>
+<a href="{{ base_path }}/paper/Sudan-MASS25.pdf"><button class="btn btn--pdf">PDF</button></a>
 
 <i><span class="btn btn--primary">TDSC'25</span> <b>Uncovering Risks of Data-Free Feature Vector Inversion Attacks Against Vector Databases</b></i><br>
 Shengyang Qin, Xinyu Lei, Nankun Mu, Hongyu Huang, <U>Tian Xie</U>, Xiao Zhang<br>
-Accepted to IEEE Transactions on Dependable and Secure Computing (Impact Factor: {{ page.tdsc }}).
+Accepted to IEEE Transactions on Dependable and Secure Computing (Impact Factor: {{ page.tdsc }}).<br>
+<a href="{{ base_path }}/paper/Qin-TDSC25.pdf"><button class="btn btn--pdf">PDF</button></a>
+
 
 ---
 
@@ -29,16 +31,20 @@ Accepted to IEEE Transactions on Dependable and Secure Computing (Impact Factor:
 
 <i><span class="btn btn--primary">MobiCom'24</span> <b>Uncovering Problematic Designs Hindering Ubiquitous Cellular Emergency Services Access</b></i><br>
 Yiwen Hu, Min-Yue Chen, Haitian Yan, Chuan-Yi Cheng, Guan-Hua Tu, Chi-Yu Li, Tian Xie, Chunyi Peng, Li Xiao, Jiliang Tang<br>
-Proceedings of ACM the 30th Annual International Conference On Mobile Computing And Networking (MobiCom) 2024, September 30- October 4, 2024,Washington, D.C., USA (Acceptance rate: 55/288 = 19.09%，Winter run)
+Proceedings of ACM the 30th Annual International Conference On Mobile Computing And Networking (MobiCom) 2024, September 30- October 4, 2024,Washington, D.C., USA (Acceptance rate: 55/288 = 19.09%，Winter run)<br>
+<a href="{{ base_path }}/paper/Hu-MobiCom24.pdf"><button class="btn btn--pdf">PDF</button></a>
 
 
 <i><span class="btn btn--primary">MobiCom'24</span> <b>IMS is Not That Secure on Your 5G/4G Phones</b></i><br>
 Jingwen Shi, Sihan Wang, Min-Yue Chen, Guan-Hua Tu, <U>Tian Xie</U>, Man-Hsin Chen, Yiwen Hu, Chi-Yu Li, Chunyi Peng<br>
-Proceedings of ACM the 30th Annual International Conference On Mobile Computing And Networking (MobiCom) 2024, September 30 - October 4, 2024, Washington, D.C., USA (Acceptance rate: 48/207 = 23.19%， Summer Run).
+Proceedings of ACM the 30th Annual International Conference On Mobile Computing And Networking (MobiCom) 2024, September 30 - October 4, 2024, Washington, D.C., USA (Acceptance rate: 48/207 = 23.19%， Summer Run).<br>
+<a href="{{ base_path }}/paper/Shi-MobiCom24.pdf"><button class="btn btn--pdf">PDF</button></a>
+
 
 <i><span class="btn btn--primary">ToN'24</span> <b>Taming the Insecurity of Cellular Emergency Services (9-1-1): From Vulnerabilities to Secure Designs</b></i><br>
 Min-Yue Chen, Yiwen Hu, Guan-Hua Tu, Chi-Yu Li, Sihan Wang, Jingwen Shi, <U>Tian Xie</U>, Li Xiao, Chunyi Peng, Zhaowei Tan, and Songwu Lu<br>
-Accepted to IEEE/ACM Transactions on Networking (Impact Factor: {{ page.ton }}).
+IEEE/ACM Transactions on Networking ( Volume: 32, Issue: 4, August 2024) (Impact Factor: {{ page.ton }}).<br>
+<a href="{{ base_path }}/paper/Chen-ToN24.pdf"><button class="btn btn--pdf">PDF</button></a>
 
 ---
 
@@ -46,14 +52,16 @@ Accepted to IEEE/ACM Transactions on Networking (Impact Factor: {{ page.ton }}).
 
 <i><span class="btn btn--primary">ToN’23</span> <b>Dissecting Operational Cellular IoT Service Security: Attacks and Defenses</b></i><br>
 Sihan Wang, <U>Tian Xie</U>, Min-Yue Chen, Guan-Hua Tu, Chi-Yu Li, Xinyu Lei, Po-Yi Chou, Fucheng Hsieh, Yiwen Hu, Li Xiao, and Chunyi Peng<br>
-Accepted to IEEE/ACM Transactions on Networking (Impact Factor: {{ page.ton }}).
+IEEE/ACM Transactions on Networking ( Volume: 32, Issue: 2, April 2024) (Impact Factor: {{ page.ton }}).<br>
+<a href="{{ base_path }}/paper/Wang-ToN24.pdf"><button class="btn btn--pdf">PDF</button></a>
 
 
 <i><span class="btn btn--primary">CNS’23</span> <b>When Good Turns Evil: Encrypted 5G/4G Voice Calls Can Leak Your Identities</b></i><br>
 Jingwen Shi, <U>Tian Xie</U>, Guan-Hua Tu, Chunyi Peng, Chi-Yu Li, Andrew
 Hou, Sihan Wang and Yiwen Hu, Xinyu Lei, Min-Yue Chen, Li Xiao, and Xiaoming
 Liu<br>
-IEEE Conference on Communications and Network Security (IEEE CNS) 2023, October 2- October 5, 2023, Olando, Florida (Acceptance Rate: 28.5%).
+IEEE Conference on Communications and Network Security (IEEE CNS) 2023, October 2- October 5, 2023, Olando, Florida (Acceptance Rate: 28.5%).<br>
+<a href="{{ base_path }}/paper/Shi-CNS23.pdf"><button class="btn btn--pdf">PDF</button></a>
 
 
 <i><span class="btn btn--primary">GetMobile'23</span> <b>Unveiling the Insecurity of Operational Cellular Emergency Services (911): Vulnerabilities, Attacks, and Countermeasures</b></i><br>
