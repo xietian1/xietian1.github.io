@@ -60,6 +60,7 @@ I am an assistant professor in the Department of Computer Science at Utah State 
 <section id="news" markdown="1">
 
 ## Recent News
+- Oct. 2025, our IEEE DSC'25 won Best Paper Award. ([Award](paper\DSC25-BestPaperAward.png){: .image-popup}, [Photo](paper\2025-DSC.jpg){: .image-popup})
 - July 2025, I'm invited to serve as TPC on the 1st free5GC World Forum in conjunction with ACM CCS 2025. 
 - April 2025, I'm invited to serve as the Program Chair for Experience and Practice Track on IEEE DSC'25. 
 - April 2025, we receive a **<font color="darkred">NAIRR Pilot award</font> ([NAIRR240456](https://nairrpilot.org/projects/awarded?_requestNumber=NAIRR240456), PI)**  to support our 5G/4G cellular network security project.

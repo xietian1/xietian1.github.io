@@ -12,7 +12,9 @@ tmc: 9.2
 
 <i><span class="btn btn--primary">DSC'25</span> <b>Dissecting Privacy-Exposing Identifiers in 5G/4G Networks</b></i><br>
 Munshi Saifuzzaman, Ke Xie, <U>Tian Xie</U>, Xiao Zhang, Xinyu Lei<br>
-Accepted to 2025 IEEE Conference on Dependable and Secure Computing (DSC) (Acceptance rate: 40.90%).
+Accepted to 2025 IEEE Conference on Dependable and Secure Computing (DSC) (Acceptance rate: 40.90%). <br>
+<b><font color="darkred">Best Paper Award</font></b> <br>
+<a href="{{ base_path }}/paper/DSC25.pdf"><button class="btn btn--pdf">PDF</button></a>
 
 <i><span class="btn btn--primary">MASS'25</span> <b>ViKey: Secure Door Access Control Using Passive Visible Light Tags</b></i><br>
 Jaskirat Sudan, Fatima Qasem, Hasky E Fynn, Fatima Mohammed, Ashwin Sarvadey, <U>Tian Xie</U>, Ang Li, Xiao Zhang<br>
