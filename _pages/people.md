@@ -9,7 +9,7 @@ author_profile: false
 **Ph.D.**
 - Ke Xie (Fall 2024 - )
 - Munshi Saifuzzaman (Fall 2024 - )
-- Hadley Westover (Spring 2026 - )
+- Hadley Westover (Spring 2026 - ) Co-advised with Dr. Wen Li
 
 **MS**
 - Bryce Collins (Fall 2024 - Spring 2025)

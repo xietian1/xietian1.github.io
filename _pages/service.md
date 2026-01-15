@@ -10,7 +10,9 @@ NSF CISE
 
 
 **TPC:**
-Program Chair@IEEE DSC'25, Free5GC World Forum'25, [ACM Mobicom S3'19](https://s32019.blogs.rice.edu/)
+Program Chair@IEEE DSC'25, Free5GC World Forum'25, ACM Mobicom S3'19
+
+<!-- [ACM Mobicom S3'19](https://s32019.blogs.rice.edu/) -->
 
 
 **Journal Reviewer:**
