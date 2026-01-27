@@ -8,6 +8,14 @@ ton: 7.1
 tmc: 9.2
 ---
 
+
+**2026**
+
+<i><span class="btn btn--primary">ICLR'26</span> <b>Don't Shift the Trigger: Robust Gradient Ascent for Backdoor Unlearning</b></i><br>
+Xingyi Zhao, <U>Tian Xie</U>, Xiaojun Qi, Depeng Xu, Shuhan Yuan<br>
+Accepted to 2026 The Fourteenth International Conference on Learning Representations (ICLR) (Acceptance rate: 28%).<br>
+
+
 **2025**
 
 <i><span class="btn btn--primary">DSC'25</span> <b>Dissecting Privacy-Exposing Identifiers in 5G/4G Networks</b></i><br>

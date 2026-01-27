@@ -60,6 +60,7 @@ I am an assistant professor in the Department of Computer Science at Utah State 
 <section id="news" markdown="1">
 
 ## Recent News
+- Jan. 2026, our backdoor unlearning paper is accepted by ICLR 2026.
 - Oct. 2025, our IEEE DSC'25 won Best Paper Award. ([Award](paper\DSC25-BestPaperAward.jpg){: .image-popup}, [Photo](paper\2025-DSC.jpg){: .image-popup})
 - July 2025, I'm invited to serve as TPC on the 1st free5GC World Forum in conjunction with ACM CCS 2025. 
 - April 2025, I'm invited to serve as the Program Chair for Experience and Practice Track on IEEE DSC'25. 
