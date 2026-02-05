@@ -60,6 +60,8 @@ I am an assistant professor in the Department of Computer Science at Utah State 
 <section id="news" markdown="1">
 
 ## Recent News
+- Feb. 2026, we will host a workshop, AI-Powered Resilient Mobile Health: From AI-RAN to Application, in conjuction with IEEE/ACM CHASE 2026, Pittsburgh, PA, USA. 
+- Feb. 2026, we will give a lightning talk at NAIRR 2026 Annual Meeting at DC. 
 - Jan. 2026, our backdoor unlearning paper is accepted by ICLR 2026.
 - Oct. 2025, our IEEE DSC'25 won Best Paper Award. ([Award](paper\DSC25-BestPaperAward.jpg){: .image-popup}, [Photo](paper\2025-DSC.jpg){: .image-popup})
 - July 2025, I'm invited to serve as TPC on the 1st free5GC World Forum in conjunction with ACM CCS 2025. 
