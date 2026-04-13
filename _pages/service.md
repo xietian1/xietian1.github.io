@@ -25,3 +25,4 @@ Infocom2023, BigData2023, Mobicom2022, CNS2022, Mobicom2021, IFIP2020, VNC2020, 
 **Institution Research Project Reviewer:**
 Undergraduate Research and Creative Opportunities (URCO) grant (2023, 2024, 2025) 
 Fall Student Research Symposium (2024, 2025)
+Spring Student Research Symposium (2026)
