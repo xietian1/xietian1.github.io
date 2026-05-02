@@ -60,6 +60,8 @@ I am an assistant professor in the Department of Computer Science at Utah State 
 <section id="news" markdown="1">
 
 ## Recent News
+- May 2026, our paper about LLM backdoor collapse and persistent backdoor attack is accepted by ICML 2026.  
+- April 2026, our paper on the security of lost and stolen phone reporting services is accepted by ACM MobiSys 2026.
 - Feb. 2026, we will host a workshop, AI-Powered Resilient Mobile Health: From AI-RAN to Application, in conjuction with IEEE/ACM CHASE 2026, Pittsburgh, PA, USA. 
 - Feb. 2026, we will give a lightning talk at NAIRR 2026 Annual Meeting at DC. 
 - Jan. 2026, our backdoor unlearning paper is accepted by ICLR 2026.

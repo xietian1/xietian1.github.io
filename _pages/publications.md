@@ -11,8 +11,14 @@ tmc: 9.2
 
 **2026**
 
-<i><span class="btn btn--primary">Mobisys'26</span> <b>Insecurity of Lost/Stolen Phone Reporting Services: Vulnerabilities, Attacks, and Countermeasures</b></i><br>
+<i><span class="btn btn--primary">ICML'26</span> <b>Broadening the Backdoor Basin: Understanding LLM Backdoors Collapse and Making Backdoors Persistent</b></i><br>
+Xingyi Zhao, <U>Tian Xie</U>, Xiaojun Qi, Depeng Xu, Shuhan Yuan<br>
+Accepted to 2026 Forty-third International Conference on Machine Learning (ICML) (Acceptance rate: 26.6%).<br>
 
+
+<i><span class="btn btn--primary">Mobisys'26</span> <b>Insecurity of Lost/Stolen Phone Reporting Services: Vulnerabilities, Attacks, and Countermeasures</b></i><br>
+Min-Yue Chen, Yiwen Hu, Yu-An Chen, Chi-Yu Li, <U>Tian Xie</U>, Guan-Hua Tu<br>
+Accepted by Proceedings of ACM the 24th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys) 2026, June 21 - 25, 2026, Cambridge, UK (Acceptance rate: 68/302 = 22.51%).<br>
 
 <i><span class="btn btn--primary">ICLR'26</span> <b>Don't Shift the Trigger: Robust Gradient Ascent for Backdoor Unlearning</b></i><br>
 Xingyi Zhao, <U>Tian Xie</U>, Xiaojun Qi, Depeng Xu, Shuhan Yuan<br>
