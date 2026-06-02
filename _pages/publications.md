@@ -11,6 +11,10 @@ tmc: 9.2
 
 **2026**
 
+<i><span class="btn btn--primary">ToN'26</span> <b>When Mobile Equipment Security Lags Behind Infrastructure: Vulnerabilities, Attacks, and Countermeasures in IMS Services</b></i><br>
+Jingwen Shi, Min-Yue Chen, Sihan Wang, Guan-Hua Tu, <U>Tian Xie</U>, Yiwen Hu, Man-Hsin Chen, Haitian Yan, Chi-Yu Li, Chunyi Peng<br>
+Accepted to IEEE/ACM Transactions on Networking (Impact Factor: {{ page.ton }}).<br>
+
 <i><span class="btn btn--primary">ICML'26</span> <b>Broadening the Backdoor Basin: Understanding LLM Backdoors Collapse and Making Backdoors Persistent</b></i><br>
 Xingyi Zhao, <U>Tian Xie</U>, Xiaojun Qi, Depeng Xu, Shuhan Yuan<br>
 Accepted to 2026 Forty-third International Conference on Machine Learning (ICML) (Acceptance rate: 26.6%).<br>
