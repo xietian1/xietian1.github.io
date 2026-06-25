@@ -23,6 +23,7 @@ Accepted to 2026 Forty-third International Conference on Machine Learning (ICML)
 <i><span class="btn btn--primary">Mobisys'26</span> <b>Insecurity of Lost/Stolen Phone Reporting Services: Vulnerabilities, Attacks, and Countermeasures</b></i><br>
 Min-Yue Chen, Yiwen Hu, Yu-An Chen, Chi-Yu Li, <U>Tian Xie</U>, Guan-Hua Tu<br>
 Accepted by Proceedings of ACM the 24th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys) 2026, June 21 - 25, 2026, Cambridge, UK (Acceptance rate: 68/302 = 22.51%).<br>
+<b><font color="darkred">Best Paper Award</font></b>
 
 <i><span class="btn btn--primary">ICLR'26</span> <b>Don't Shift the Trigger: Robust Gradient Ascent for Backdoor Unlearning</b></i><br>
 Xingyi Zhao, <U>Tian Xie</U>, Xiaojun Qi, Depeng Xu, Shuhan Yuan<br>
