@@ -60,7 +60,7 @@ I am an assistant professor in the Department of Computer Science at Utah State 
 <section id="news" markdown="1">
 
 ## Recent News
-- Jun. 2026, Our security paper on lost/stolen reporting services received the **<font color="darkred">Best Paper Award</font> at ACM MobiSys'26.
+- Jun. 2026, Our security paper on lost/stolen reporting services received the **<font color="darkred">Best Paper Award</font>** at ACM MobiSys'26.
 - May 2026, our paper about LLM backdoor collapse and persistent backdoor attack is accepted by ICML 2026.  
 - Apr. 2026, our paper on the security of lost and stolen phone reporting services is accepted by ACM MobiSys 2026.
 - Feb. 2026, we will host a workshop, AI-Powered Resilient Mobile Health: From AI-RAN to Application, in conjuction with IEEE/ACM CHASE 2026, Pittsburgh, PA, USA. 
