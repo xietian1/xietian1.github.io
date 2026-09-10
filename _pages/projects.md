@@ -7,13 +7,14 @@ author_profile: false
 
 **CellularSpecSec-Bench** <br>
 A manually verified staged benchmark, containing newly constructed high-quality datasets with expert-verified and corrected subsets from prior open-source resources. <br>
-<a href="{{ base_path }}/projects"><button class="btn btn--pdf">More</button></a>
+<a href="https://huggingface.co/datasets/CellularSpecSec-Bench/CellularS2-Bench"><button class="btn btn--pdf">Dataset (Hugging Face)</button></a>
+<a href="https://chelsiehi.github.io/CellSecInspector-MobiCom26/"><button class="btn btn--pdf">Project Page</button></a>
 
 ---
 
 **CellSecInspector** <br>
-An automated framework for security analysis of 3GPP specifications. <br>
-<a href="{{ base_path }}/projects"><button class="btn btn--pdf">More</button></a>
+An automated framework for security analysis of 3GPP specifications (ACM MobiCom'26). <br>
+<a href="https://chelsiehi.github.io/CellSecInspector-MobiCom26/"><button class="btn btn--pdf">Project Page</button></a>
 
 ---
 
