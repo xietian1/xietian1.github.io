@@ -11,6 +11,11 @@ tmc: 9.2
 
 **2026**
 
+<i><span class="btn btn--primary">MobiCom'26</span> <b>CellSecInspector: Safeguarding Cellular Networks via Automated Security Analysis on Specifications</b></i><br>
+Ke Xie, Xingyi Zhao, Min-Yue Chen, Yu-An Chen, Yiwen Hu, Munshi Saifuzzaman, Wen Li, Shuhan Yuan, Guan-Hua Tu, <U>Tian Xie</U><br>
+Accepted by Proceedings of ACM the 32nd Annual International Conference On Mobile Computing And Networking (MobiCom) 2026, October 26 - 30, 2026, Austin, Texas, USA (Winter run).<br>
+<a href="https://chelsiehi.github.io/CellSecInspector-MobiCom26/"><button class="btn btn--pdf">Project Page</button></a>
+
 <i><span class="btn btn--primary">ToN'26</span> <b>When Mobile Equipment Security Lags Behind Infrastructure: Vulnerabilities, Attacks, and Countermeasures in IMS Services</b></i><br>
 Jingwen Shi, Min-Yue Chen, Sihan Wang, Guan-Hua Tu, <U>Tian Xie</U>, Yiwen Hu, Man-Hsin Chen, Haitian Yan, Chi-Yu Li, Chunyi Peng<br>
 Accepted to IEEE/ACM Transactions on Networking (Impact Factor: {{ page.ton }}).<br>
@@ -23,7 +28,7 @@ Accepted to 2026 Forty-third International Conference on Machine Learning (ICML)
 <i><span class="btn btn--primary">Mobisys'26</span> <b>Insecurity of Lost/Stolen Phone Reporting Services: Vulnerabilities, Attacks, and Countermeasures</b></i><br>
 Min-Yue Chen, Yiwen Hu, Yu-An Chen, Chi-Yu Li, <U>Tian Xie</U>, Guan-Hua Tu<br>
 Accepted by Proceedings of ACM the 24th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys) 2026, June 21 - 25, 2026, Cambridge, UK (Acceptance rate: 68/302 = 22.51%).<br>
-<b><font color="darkred">Best Paper Award</font></b>
+<b><font color="darkred">Best Paper Award (1/302)</font></b>
 
 <i><span class="btn btn--primary">ICLR'26</span> <b>Don't Shift the Trigger: Robust Gradient Ascent for Backdoor Unlearning</b></i><br>
 Xingyi Zhao, <U>Tian Xie</U>, Xiaojun Qi, Depeng Xu, Shuhan Yuan<br>
