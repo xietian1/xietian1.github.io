@@ -15,6 +15,7 @@ tmc: 9.2
 Ke Xie, Xingyi Zhao, Min-Yue Chen, Yu-An Chen, Yiwen Hu, Munshi Saifuzzaman, Wen Li, Shuhan Yuan, Guan-Hua Tu, <U>Tian Xie</U><br>
 Accepted by Proceedings of ACM the 32nd Annual International Conference On Mobile Computing And Networking (MobiCom) 2026, October 26 - 30, 2026, Austin, Texas, USA (Winter run).<br>
 <a href="https://chelsiehi.github.io/CellSecInspector-MobiCom26/"><button class="btn btn--pdf">Project Page</button></a>
+<a href="https://www.gsma.com/solutions-and-impact/technologies/security/gsma-mobile-security-research-acknowledgements/"><button class="btn btn--gsma">GSMA Acknowledgement</button></a>
 
 <i><span class="btn btn--primary">ToN'26</span> <b>When Mobile Equipment Security Lags Behind Infrastructure: Vulnerabilities, Attacks, and Countermeasures in IMS Services</b></i><br>
 Jingwen Shi, Min-Yue Chen, Sihan Wang, Guan-Hua Tu, <U>Tian Xie</U>, Yiwen Hu, Man-Hsin Chen, Haitian Yan, Chi-Yu Li, Chunyi Peng<br>

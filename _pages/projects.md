@@ -14,6 +14,7 @@ A manually verified staged benchmark, containing newly constructed high-quality 
 **CellSecInspector** <br>
 An automated framework for security analysis of 3GPP specifications (ACM MobiCom'26). <br>
 <a href="https://chelsiehi.github.io/CellSecInspector-MobiCom26/"><button class="btn btn--pdf">Project Page</button></a>
+<a href="https://www.gsma.com/solutions-and-impact/technologies/security/gsma-mobile-security-research-acknowledgements/"><button class="btn btn--gsma">GSMA Acknowledgement</button></a>
 
 ---
 

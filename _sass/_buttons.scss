@@ -71,6 +71,12 @@
     background-color: mix(#000, $info-color, 20%);
   }
 
+  &--gsma {
+    font-size: $type-size-6;
+    padding: 0.1em 1em;
+    background-color: #00796b;
+  }
+
   /* fills width of parent container */
 
   &--block {
