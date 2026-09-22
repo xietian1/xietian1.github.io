@@ -61,13 +61,13 @@ I am an assistant professor in the Department of Computer Science at Utah State 
 
 ## Recent News
 - Aug. 2026, our paper for the automated framework, CellSecInspector, is accepted by ACM MobiCom'26.
-- Jun. 2026, our security paper on lost/stolen reporting services received the **<font color="darkred">Best Paper Award</font>** at ACM MobiSys'26 (1/302). ([Award](paper/MobiSys26-BestPaperAward.jpg){: .image-popup})
+- Jun. 2026, our security paper on lost/stolen reporting services received the **<font color="darkred">Best Paper Award</font>** at ACM MobiSys'26. ([Award](paper/MobiSys26-BestPaperAward.jpg){: .image-popup})
 - May 2026, our paper about LLM backdoor collapse and persistent backdoor attack is accepted by ICML 2026.  
 - Apr. 2026, our paper on the security of lost and stolen phone reporting services is accepted by ACM MobiSys 2026.
 - Feb. 2026, we will host a workshop, AI-Powered Resilient Mobile Health: From AI-RAN to Application, in conjuction with IEEE/ACM CHASE 2026, Pittsburgh, PA, USA. 
 - Feb. 2026, we will give a lightning talk at NAIRR 2026 Annual Meeting at DC. 
 - Jan. 2026, our backdoor unlearning paper is accepted by ICLR 2026.
-- Oct. 2025, our IEEE DSC'25 won Best Paper Award (1/44). ([Award](paper\DSC25-BestPaperAward.jpg){: .image-popup}, [Photo](paper\2025-DSC.jpg){: .image-popup})
+- Oct. 2025, our IEEE DSC'25 won Best Paper Award. ([Award](paper\DSC25-BestPaperAward.jpg){: .image-popup}, [Photo](paper\2025-DSC.jpg){: .image-popup})
 - July 2025, I'm invited to serve as TPC on the 1st free5GC World Forum in conjunction with ACM CCS 2025. 
 - April 2025, I'm invited to serve as the Program Chair for Experience and Practice Track on IEEE DSC'25. 
 - April 2025, we receive a **<font color="darkred">NAIRR Pilot award</font> ([NAIRR240456](https://nairrpilot.org/projects/awarded?_requestNumber=NAIRR240456), PI)**  to support our 5G/4G cellular network security project.
