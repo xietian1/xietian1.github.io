@@ -12,7 +12,7 @@ tmc: 9.2
 **2026**
 
 <i><span class="btn btn--primary">NeurIPS'26</span> <b>CellularS2-Bench: A Staged, Evidence-Grounded Benchmark for Cellular Network Security Reasoning</b></i><br>
-Ke Xie, Xingyi Zhao, Yiwen Hu, Shuhan Yuan, <U>Tian Xie</U><br>
+Ke Xie, Xingyi Zhao, Yiwen Hu, Haotian Lin, Shuhan Yuan, Wen Li, <U>Tian Xie</U><br>
 Accepted to the Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026), Evaluations & Datasets Track (Acceptance rate: 971/3757 = 25.8%).<br>
 <a href="https://arxiv.org/abs/2601.12716"><button class="btn btn--arxiv">arXiv</button></a>
 <a href="https://huggingface.co/datasets/CellularSpecSec-Bench/CellularS2-Bench"><button class="btn btn--pdf">Dataset (Hugging Face)</button></a>
