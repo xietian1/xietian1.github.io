@@ -60,6 +60,7 @@ I am an assistant professor in the Department of Computer Science at Utah State 
 <section id="news" markdown="1">
 
 ## Recent News
+- Sep. 2026, our benchmark for cellular network security reasoning, CellularS2-Bench, is accepted by NeurIPS'26 Evaluations & Datasets Track.
 - Aug. 2026, our paper for the automated framework, CellSecInspector, is accepted by ACM MobiCom'26.
 - Jun. 2026, our security paper on lost/stolen reporting services received the **<font color="darkred">Best Paper Award</font>** at ACM MobiSys'26. ([Award](paper/MobiSys26-BestPaperAward.jpg){: .image-popup})
 - May 2026, our paper about LLM backdoor collapse and persistent backdoor attack is accepted by ICML 2026.  

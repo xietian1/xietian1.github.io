@@ -11,6 +11,12 @@ tmc: 9.2
 
 **2026**
 
+<i><span class="btn btn--primary">NeurIPS'26</span> <b>CellularS2-Bench: A Staged, Evidence-Grounded Benchmark for Cellular Network Security Reasoning</b></i><br>
+Ke Xie, Xingyi Zhao, Yiwen Hu, Shuhan Yuan, <U>Tian Xie</U><br>
+Accepted to the Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026), Evaluations & Datasets Track, Poster (Acceptance rate: 971/3757 = 25.8%).<br>
+<a href="https://arxiv.org/abs/2601.12716"><button class="btn btn--arxiv">arXiv</button></a>
+<a href="https://huggingface.co/datasets/CellularSpecSec-Bench/CellularS2-Bench"><button class="btn btn--pdf">Dataset (Hugging Face)</button></a>
+
 <i><span class="btn btn--primary">MobiCom'26</span> <b>CellSecInspector: Safeguarding Cellular Networks via Automated Security Analysis on Specifications</b></i><br>
 Ke Xie, Xingyi Zhao, Min-Yue Chen, Yu-An Chen, Yiwen Hu, Munshi Saifuzzaman, Wen Li, Shuhan Yuan, Guan-Hua Tu, <U>Tian Xie</U><br>
 Accepted by Proceedings of ACM the 32nd Annual International Conference On Mobile Computing And Networking (MobiCom) 2026, October 26 - 30, 2026, Austin, Texas, USA (Winter run).<br>
