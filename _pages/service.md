@@ -10,7 +10,7 @@ NSF CISE
 
 
 **TPC:**
-Program Chair@IEEE/ACM CHASE 2026 ARMH Workshop, Program Chair@IEEE DSC'25, Free5GC World Forum'25, ACM Mobicom S3'19
+Program Chair@IEEE/ACM CHASE 2026 ARMH Workshop, Program Chair@IEEE DSC'25, Free5GC World Forum'26, SSR'26, Free5GC World Forum'25, ACM Mobicom S3'19
 
 <!-- [ACM Mobicom S3'19](https://s32019.blogs.rice.edu/) -->
 
