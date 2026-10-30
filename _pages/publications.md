@@ -19,7 +19,7 @@ Accepted to the Fortieth Annual Conference on Neural Information Processing Syst
 
 <i><span class="btn btn--primary">MobiCom'26</span> <b>CellSecInspector: Safeguarding Cellular Networks via Automated Security Analysis on Specifications</b></i><br>
 Ke Xie, Xingyi Zhao, Min-Yue Chen, Yu-An Chen, Yiwen Hu, Munshi Saifuzzaman, Wen Li, Shuhan Yuan, Guan-Hua Tu, <U>Tian Xie</U><br>
-Accepted by Proceedings of ACM the 32nd Annual International Conference On Mobile Computing And Networking (MobiCom) 2026, October 26 - 30, 2026, Austin, Texas, USA (Winter run).<br>
+Accepted by Proceedings of ACM the 32nd Annual International Conference On Mobile Computing And Networking (MobiCom) 2026, October 26 - 30, 2026, Austin, Texas, USA (Acceptance rate: 88/628 = 14.01%, Regular talk rate: 48/628 = 7.64%, Winter run).<br>
 <a href="https://chelsiehi.github.io/CellSecInspector-MobiCom26/"><button class="btn btn--pdf">Project Page</button></a>
 <a href="https://www.gsma.com/solutions-and-impact/technologies/security/gsma-mobile-security-research-acknowledgements/"><button class="btn btn--gsma">GSMA Acknowledgement</button></a>
 
