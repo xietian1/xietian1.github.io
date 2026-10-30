@@ -16,14 +16,14 @@
   /* sticky footer fix end */
   margin-top: 3em;
   // color: mix(#fff, $gray, 25%);
-  color: #ffff;
+  color: #6b7680;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
   // background-color: $lighter-gray;
-  background-color: #00263A;
-  border-top: 1px solid $light-gray;
+  background-color: #f7f8fa;
+  border-top: 1px solid #e3e6ea;
 
   footer {
     @include clearfix;
@@ -43,6 +43,7 @@
     text-decoration: none;
 
     &:hover {
+      color: #00263A;
       text-decoration: underline;
     }
   }
@@ -52,6 +53,16 @@
   .far,
   .fal {
     color: mix(#fff, $gray, 25%);
+  }
+}
+
+.page__footer-copyright,
+.page__footer-follow {
+  /* line the footer up with the page text column (same grid as .page) */
+  @include breakpoint($large) {
+    @include span(11 of 12 last);
+    @include prefix(0.5 of 12);
+    @include suffix(2 of 12);
   }
 }
 
