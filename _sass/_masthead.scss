@@ -4,18 +4,18 @@
 
 .masthead {
   position: relative;
-  border-bottom: 1px solid $border-color;
+  border-bottom: 1px solid #e3e6ea;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
-  background-color: #00263A;
+  background-color: #fff;
 
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 1em 1em 1em;
+    padding: 0 1em;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
@@ -24,7 +24,7 @@
 
     nav {
       z-index: 10;
-      background-color: #00263A;
+      background-color: #fff;
     }
 
     a {
@@ -34,6 +34,13 @@
 }
 
 .masthead__menu {
+  /* line the banner up with the page text column (same grid as .page) */
+  @include breakpoint($large) {
+    @include span(11 of 12 last);
+    @include prefix(0.5 of 12);
+    @include suffix(2 of 12);
+  }
+
   ul {
     margin: 0;
     padding: 0;
