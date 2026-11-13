@@ -7,6 +7,8 @@
 #   team     : list of names as students agreed to be shown (get consent first)
 #   award    : optional badge, e.g. "Best Project"
 #   image    : optional thumbnail (put files in /images/class-projects/)
+#   video    : optional demo video (MP4, H.264 + AAC), played in a pop-up player.
+#              Usually a URL on https://files.xietian1.com/... (your Oracle VM)
 #   pdf      : optional report/slides PDF, opened in the built-in viewer.
 #              Either a file in this repo (/files/class-projects/...) or a URL on
 #              https://files.xietian1.com/... (your Oracle VM; needs CORS, see README note)
@@ -69,3 +71,5 @@ projects:
       A work-stealing scheduler in C with a model-checked correctness argument
       and benchmarks against a mutex-based baseline.
     tags: ["Concurrency"]
+    pdf: "https://files.xietian1.com/class-projects/cs3100-fall2025/lock-free-scheduler-report.pdf"
+    video: "https://files.xietian1.com/class-projects/cs3100-fall2025/lock-free-scheduler-demo.mp4"

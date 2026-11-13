@@ -307,3 +307,74 @@ $cp-award: #b7791f;
     &__controls { width: 100%; justify-content: center; }
   }
 }
+
+/* --------------------------------------------------------------------------
+   Demo video player (dialog)
+   -------------------------------------------------------------------------- */
+
+.cp-player {
+  width: min(960px, 94vw);
+  max-height: 92vh;
+  padding: 0;
+  overflow: hidden;
+  background: #111;
+  border: 0;
+  border-radius: 8px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.4);
+
+  &::backdrop { background: rgba(0, 0, 0, 0.7); }
+
+  &__head {
+    display: flex;
+    align-items: center;
+    gap: 1em;
+    padding: 0.5em 0.5em 0.5em 1em;
+    background: #1b1b1b;
+  }
+
+  &__title {
+    flex: 1;
+    min-width: 0;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-size: $type-size-5;
+    color: #f2f2f2;
+    border: 0;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  &__close {
+    width: 2.2em;
+    height: 2.2em;
+    font-size: 1em;
+    color: #ddd;
+    background: transparent;
+    border: 0;
+    border-radius: 50%;
+    cursor: pointer;
+
+    &:hover { color: #fff; background: rgba(255, 255, 255, 0.12); }
+  }
+
+  &__video {
+    display: block;
+    width: 100%;
+    max-height: calc(92vh - 3.5em);
+    background: #000;
+  }
+
+  &__error {
+    margin: 0;
+    padding: 3em 1.5em;
+    text-align: center;
+    color: #f5a3a1;
+  }
+}
+
+/* beat the theme's `.page__content h2` underline inside the player */
+.page__content .cp-player__title {
+  padding: 0;
+  border: 0;
+}
