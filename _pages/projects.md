@@ -7,7 +7,10 @@ author_profile: false
 
 **CellularS2-Bench** <br>
 A manually verified staged benchmark, containing newly constructed high-quality datasets with expert-verified and corrected subsets from prior open-source resources (NeurIPS'26 Evaluations & Datasets Track). <br>
-<a href="https://neurips.cc/virtual/2026/loc/atlanta/poster/138931"><button class="btn btn--pdf">NeurIPS'26 Poster</button></a>
+<a href="https://chelsiehi.github.io/CellularS2/"><button class="btn btn--pdf">Project Page</button></a>
+<a href="https://neurips.cc/virtual/2026/loc/atlanta/poster/138931"><button class="btn btn--pdf">NeurIPS'26</button></a>
+<a href="https://openreview.net/forum?id=vniyGN0gce"><button class="btn btn--pdf">OpenReview</button></a>
+<a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202026/138931.png"><button class="btn btn--pdf">Poster</button></a>
 <a href="https://arxiv.org/abs/2601.12716"><button class="btn btn--arxiv">arXiv</button></a>
 <a href="https://huggingface.co/datasets/CellularSpecSec-Bench/CellularS2-Bench"><button class="btn btn--pdf">Dataset (Hugging Face)</button></a>
 
