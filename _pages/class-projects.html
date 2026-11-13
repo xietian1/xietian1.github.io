@@ -30,7 +30,7 @@ author_profile: false
 
     {% assign terms = course_projects | group_by: "term" %}
     {% for t in terms %}
-      <h3 class="cp-term">{{ t.name }}</h3>
+      {% if t.name != "" %}<h3 class="cp-term">{{ t.name }}</h3>{% endif %}
       <div class="cp-grid">
         {% assign winners = t.items | where_exp: "p", "p.award" %}
         {% assign others = t.items | where_exp: "p", "p.award == nil" %}

@@ -2,8 +2,8 @@
 #
 # HOW TO ADD A PROJECT: copy the template at the bottom and edit it.
 #   course   : must match a `code` in `courses:` below
-#   term     : e.g. "Spring 2026" (projects are grouped by course, then term, newest first)
-#   order    : sort key for terms; use YYYY.T (T = 1 Spring, 2 Summer, 3 Fall)
+#   term     : optional, e.g. "Spring 2026" — adds a semester heading within the course
+#   order    : optional sort key for terms; use YYYY.T (T = 1 Spring, 2 Summer, 3 Fall)
 #   team     : optional list of names as students agreed to be shown (get consent first)
 #   award    : optional badge, e.g. "Best Project" (award winners are listed first)
 #   summary  : optional one or two sentences
@@ -28,14 +28,10 @@ courses:
 projects:
   - title: "Parking Lot System"
     course: "CS 3100"
-    term: "Fall 2025"
-    order: 2025.3
     video: "https://files.xietian1.com/class-projects/cs3100/parkinglot.mp4"
 
   - title: "API Limitation"
     course: "CS 3100"
-    term: "Fall 2025"
-    order: 2025.3
     pdf: "https://files.xietian1.com/class-projects/cs3100/presentation-api-limitation.pdf"
 
   # Template — copy, uncomment, and fill in:
