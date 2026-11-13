@@ -23,3 +23,5 @@ author_profile: false
 - Teaching Assistant: CSE 425 Intro to Computer Security, Spring 2018, Fall 2018
 - Teaching Assistant: CSE 476 Mobile App Development, Fall 2017, 2019
 - Teaching Assistant: CSE 422 Computer Network, Sping 2017
+
+See outstanding student work on the [Class Projects](/class-projects/) page.

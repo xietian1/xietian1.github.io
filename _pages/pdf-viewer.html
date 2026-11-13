@@ -1,0 +1,39 @@
+---
+layout: default
+title: "Document Viewer"
+permalink: /viewer/
+sitemap: false
+---
+
+{% include base_path %}
+
+<div id="main" role="main" class="pv">
+  <div class="pv__bar">
+    <a class="pv__back" href="{{ base_path }}/class-projects/"><i class="fas fa-arrow-left" aria-hidden="true"></i> <span>Class Projects</span></a>
+    <h1 class="pv__title" id="pv-title">Document</h1>
+    <div class="pv__controls">
+      <button type="button" class="pv__btn" id="pv-prev" aria-label="Previous page"><i class="fas fa-chevron-up" aria-hidden="true"></i></button>
+      <span class="pv__page"><input id="pv-page" type="number" min="1" value="1" aria-label="Page number"> / <span id="pv-count">–</span></span>
+      <button type="button" class="pv__btn" id="pv-next" aria-label="Next page"><i class="fas fa-chevron-down" aria-hidden="true"></i></button>
+      <span class="pv__sep"></span>
+      <button type="button" class="pv__btn" id="pv-zoom-out" aria-label="Zoom out"><i class="fas fa-search-minus" aria-hidden="true"></i></button>
+      <button type="button" class="pv__btn pv__btn--text" id="pv-fit" aria-label="Fit to width">Fit</button>
+      <button type="button" class="pv__btn" id="pv-zoom-in" aria-label="Zoom in"><i class="fas fa-search-plus" aria-hidden="true"></i></button>
+      <span class="pv__sep"></span>
+      <a class="pv__btn" id="pv-download" href="#" download aria-label="Download PDF"><i class="fas fa-download" aria-hidden="true"></i></a>
+    </div>
+  </div>
+
+  <div class="pv__stage" id="pv-stage" tabindex="0" aria-live="polite">
+    <p class="pv__status" id="pv-status">Loading document…</p>
+  </div>
+</div>
+
+<script src="{{ base_path }}/assets/pdfjs/pdf.min.js"></script>
+<script>
+  window.PDF_VIEWER = {
+    worker: "{{ base_path }}/assets/pdfjs/pdf.worker.min.js",
+    allowedOrigins: ["https://files.xietian1.com"]
+  };
+</script>
+<script src="{{ base_path }}/assets/js/pdf-viewer.js"></script>

@@ -1,0 +1,70 @@
+---
+layout: single
+title: "Class Projects"
+permalink: /class-projects/
+author_profile: false
+---
+
+{% include base_path %}
+{% assign data = site.data.class_projects %}
+
+<p class="cp-intro">
+  Outstanding projects from the courses I teach. Projects are shared with the students' permission.
+</p>
+
+<div class="cp-filter" role="toolbar" aria-label="Filter by course">
+  <button type="button" class="cp-chip is-active" data-course="all" aria-pressed="true">All courses</button>
+  {% for c in data.courses %}
+    {% assign n = data.projects | where: "course", c.code | size %}
+    {% if n > 0 %}
+      <button type="button" class="cp-chip" data-course="{{ c.code | slugify }}" aria-pressed="false">{{ c.code }}</button>
+    {% endif %}
+  {% endfor %}
+</div>
+
+{% for c in data.courses %}
+  {% assign course_projects = data.projects | where: "course", c.code | sort: "order" | reverse %}
+  {% if course_projects.size > 0 %}
+  <section class="cp-course" data-course="{{ c.code | slugify }}">
+    <h2 class="cp-course__title">{{ c.code }} <span class="cp-course__name">{{ c.name }}</span></h2>
+
+    {% assign terms = course_projects | group_by: "term" %}
+    {% for t in terms %}
+      <h3 class="cp-term">{{ t.name }}</h3>
+      <div class="cp-grid">
+        {% assign winners = t.items | where_exp: "p", "p.award" %}
+        {% assign others = t.items | where_exp: "p", "p.award == nil" %}
+        {% assign ordered = winners | concat: others %}
+        {% for p in ordered %}
+          <article class="cp-card{% if p.award %} cp-card--award{% endif %}">
+            {% if p.image %}
+              <img class="cp-card__img" src="{% if p.image contains '://' %}{{ p.image }}{% else %}{{ base_path }}{{ p.image }}{% endif %}" alt="" loading="lazy">
+            {% endif %}
+            <div class="cp-card__body">
+              {% if p.award %}<span class="cp-badge"><i class="fas fa-award" aria-hidden="true"></i> {{ p.award }}</span>{% endif %}
+              <h4 class="cp-card__title">{{ p.title }}</h4>
+              {% if p.team %}<p class="cp-card__team"><i class="fas fa-users" aria-hidden="true"></i> {{ p.team | join: ", " }}</p>{% endif %}
+              {% if p.summary %}<p class="cp-card__summary">{{ p.summary }}</p>{% endif %}
+              {% if p.tags %}
+                <ul class="cp-tags">{% for tag in p.tags %}<li>{{ tag }}</li>{% endfor %}</ul>
+              {% endif %}
+              {% if p.pdf or p.links %}
+              <div class="cp-card__actions">
+                {% if p.pdf %}
+                  <a class="cp-btn cp-btn--primary" href="{{ base_path }}/viewer/?file={{ p.pdf | url_encode }}&amp;title={{ p.title | url_encode }}"><i class="fas fa-file-pdf" aria-hidden="true"></i> View report</a>
+                {% endif %}
+                {% for l in p.links %}
+                  <a class="cp-btn" href="{{ l.url }}" target="_blank" rel="noopener">{{ l.label }}</a>
+                {% endfor %}
+              </div>
+              {% endif %}
+            </div>
+          </article>
+        {% endfor %}
+      </div>
+    {% endfor %}
+  </section>
+  {% endif %}
+{% endfor %}
+
+<script src="{{ base_path }}/assets/js/class-projects.js" defer></script>
