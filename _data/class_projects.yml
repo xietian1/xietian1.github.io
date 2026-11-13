@@ -1,20 +1,21 @@
 # Class Projects — outstanding student projects shown at /class-projects/
 #
-# HOW TO ADD A PROJECT: copy one entry under `projects:` and edit it.
+# HOW TO ADD A PROJECT: copy the template at the bottom and edit it.
 #   course   : must match a `code` in `courses:` below
 #   term     : e.g. "Spring 2026" (projects are grouped by course, then term, newest first)
 #   order    : sort key for terms; use YYYY.T (T = 1 Spring, 2 Summer, 3 Fall)
-#   team     : list of names as students agreed to be shown (get consent first)
-#   award    : optional badge, e.g. "Best Project"
+#   team     : optional list of names as students agreed to be shown (get consent first)
+#   award    : optional badge, e.g. "Best Project" (award winners are listed first)
+#   summary  : optional one or two sentences
+#   tags     : optional list of short labels
 #   image    : optional thumbnail (put files in /images/class-projects/)
-#   video    : optional demo video (MP4, H.264 + AAC), played in a pop-up player.
-#              Usually a URL on https://files.xietian1.com/... (your Oracle VM)
 #   pdf      : optional report/slides PDF, opened in the built-in viewer.
-#              Either a file in this repo (/files/class-projects/...) or a URL on
-#              https://files.xietian1.com/... (your Oracle VM; needs CORS, see README note)
+#              A URL on https://files.xietian1.com/... (Oracle VM, /srv/files/...)
+#              or a file in this repo (/files/class-projects/...)
+#   video    : optional demo video (MP4, H.264 + AAC), played in a pop-up player
 #   links    : optional extra buttons (label + url)
 #
-# The entries marked SAMPLE are placeholders — replace or delete them.
+# Courses with no projects are hidden automatically.
 
 courses:
   - code: "CS 4460"
@@ -25,51 +26,30 @@ courses:
     name: "Operating Systems and Concurrency"
 
 projects:
-  - title: "SAMPLE — Phishing Email Detector with Explainable Features"
-    course: "CS 4460"
-    term: "Spring 2026"
-    order: 2026.1
-    team: ["Student A", "Student B"]
-    award: "Best Project"
-    summary: >-
-      A browser extension that flags likely phishing emails and highlights the
-      features (sender mismatch, lookalike domains, urgent language) behind each decision.
-    tags: ["Web security", "ML"]
-    pdf: "/files/class-projects/sample-report.pdf"
-    links:
-      - label: "Code"
-        url: "https://github.com/"
-
-  - title: "SAMPLE — Password Manager Threat Model"
-    course: "CS 4460"
-    term: "Spring 2026"
-    order: 2026.1
-    team: ["Student C"]
-    summary: >-
-      A STRIDE threat model of an open-source password manager, with two
-      responsibly disclosed findings.
-    tags: ["Threat modeling"]
-
-  - title: "SAMPLE — Detecting Rogue Wi-Fi Access Points"
-    course: "CS 5215/6215"
-    term: "Fall 2025"
-    order: 2025.3
-    team: ["Student D", "Student E", "Student F"]
-    award: "Outstanding Project"
-    summary: >-
-      A Raspberry Pi sensor that fingerprints access points and alerts on
-      evil-twin attacks across a campus building.
-    tags: ["Wireless", "IDS"]
-    pdf: "/files/class-projects/sample-report.pdf"
-
-  - title: "SAMPLE — A Lock-Free Job Scheduler"
+  - title: "Parking Lot System"
     course: "CS 3100"
     term: "Fall 2025"
     order: 2025.3
-    team: ["Student G", "Student H"]
-    summary: >-
-      A work-stealing scheduler in C with a model-checked correctness argument
-      and benchmarks against a mutex-based baseline.
-    tags: ["Concurrency"]
-    pdf: "https://files.xietian1.com/class-projects/cs3100-fall2025/lock-free-scheduler-report.pdf"
-    video: "https://files.xietian1.com/class-projects/cs3100-fall2025/lock-free-scheduler-demo.mp4"
+    video: "https://files.xietian1.com/class-projects/cs3100/parkinglot.mp4"
+
+  - title: "API Limitation"
+    course: "CS 3100"
+    term: "Fall 2025"
+    order: 2025.3
+    pdf: "https://files.xietian1.com/class-projects/cs3100/presentation-api-limitation.pdf"
+
+  # Template — copy, uncomment, and fill in:
+  # - title: "Project title"
+  #   course: "CS 4460"
+  #   term: "Spring 2026"
+  #   order: 2026.1
+  #   team: ["Student A", "Student B"]
+  #   award: "Best Project"
+  #   summary: >-
+  #     One or two sentences about the project.
+  #   tags: ["Web security"]
+  #   pdf: "https://files.xietian1.com/class-projects/cs4460/report.pdf"
+  #   video: "https://files.xietian1.com/class-projects/cs4460/demo.mp4"
+  #   links:
+  #     - label: "Code"
+  #       url: "https://github.com/..."
