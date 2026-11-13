@@ -18,11 +18,11 @@ main:
   - title: "Teaching"
     url: /teaching/ 
 
-  - title: "Class Projects"
-    url: /class-projects/
-
   - title: "People"
     url: /people/ 
+
+  - title: "Class Projects"
+    url: /class-projects/
 
   # - title: "Blog Posts"
   #   url: /year-archive/
