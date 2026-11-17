@@ -34,6 +34,36 @@ projects:
     course: "CS 3100"
     pdf: "https://files.xietian1.com/class-projects/cs3100/presentation-api-limitation.pdf"
 
+  - title: "From Cloud Labs to Real Access Networks: A Campus-Based Study of WireGuard and OpenVPN"
+    course: "CS 5215/6215"
+    summary: >-
+      Measures WireGuard and OpenVPN (TCP and UDP) against a no-VPN baseline
+      from four real networks, a campus lab, a home, a coffee shop and a public
+      venue, comparing throughput, jitter, packet loss and round-trip time.
+    tags: ["VPN", "Network measurement"]
+    image: "/images/class-projects/cs5215-wireguard-openvpn.jpg"
+    pdf: "https://files.xietian1.com/class-projects/cs5215-6215/From%20Cloud%20Labs%20to%20Real%20Access%20Networks%20A%20Campus%20Based%20Study%20of%20WireGuard%20and%20OpenVPN.pdf"
+
+  - title: "Matter Over Wi-Fi & Thread: A Secure Smart-Home Future"
+    course: "CS 5215/6215"
+    summary: >-
+      Examines the security and privacy design of the Matter smart-home
+      standard over Wi-Fi and Thread, including device attestation and
+      encrypted local control, with traffic captures from real smart-home devices.
+    tags: ["IoT security", "Smart home"]
+    image: "/images/class-projects/cs5215-matter.jpg"
+    pdf: "https://files.xietian1.com/class-projects/cs5215-6215/Matter%20%26%20IoT.pdf"
+
+  - title: "Investigation of Privacy Concerns in Amazon Sidewalk"
+    course: "CS 5215/6215"
+    summary: >-
+      Analyzes privacy risks in Amazon Sidewalk, the shared IoT network formed
+      by Echo and Ring devices, using a STRIDE threat analysis and a privacy
+      impact assessment, and recommends greater transparency and user control.
+    tags: ["IoT privacy", "Threat modeling"]
+    image: "/images/class-projects/cs5215-amazon-sidewalk.jpg"
+    pdf: "https://files.xietian1.com/class-projects/cs5215-6215/Investigation%20of%20Privacy%20Concerns%20in%20Amazon%20Sidewalk.pdf"
+
   # Template — copy, uncomment, and fill in:
   # - title: "Project title"
   #   course: "CS 4460"
